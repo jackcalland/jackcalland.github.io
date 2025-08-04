@@ -1,0 +1,1 @@
+This website is hosted by [GitHub Pages]([url](https://pages.github.com/)) and powered by [Jekyll]([url](https://jekyllrb.com/)) ([guide]([url](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll))).
